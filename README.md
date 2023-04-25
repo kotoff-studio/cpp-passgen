@@ -1,6 +1,9 @@
 # cpp-passgen
 ### The simpliest Password Generator using C++
 
+## Functions
+For now, the header contains only one method which is `generatePassword(int charCount)` where `charCount` is the length of generated password
+
 ## Usage
 1. Include **passgen.hpp** in your project
 ```cpp
